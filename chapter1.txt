@@ -1,1 +1,1 @@
-this is chapter one tutorial
+this is introductory chapter of the project
